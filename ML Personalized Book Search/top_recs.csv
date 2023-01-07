@@ -1,0 +1,51 @@
+,book_id,count,mean,title,ratings,cover_image,mod_title,adjusted_count,score
+0,1,11,5.0,The Hunger Games,22806,https://images.gr-assets.com/books/1447303603m/2767052.jpg,thehungergames,0.005305621327720776,0.02652810663860388
+193,258,5,5.0,La sombra del viento,3531,https://images.gr-assets.com/books/1344545047m/1232.jpg,lasombradelviento,0.007080147267063156,0.03540073633531578
+280,39,8,5.0,A Game of Thrones,10692,https://images.gr-assets.com/books/1436732693m/13496.jpg,agameofthrones,0.005985783763561541,0.029928918817807706
+276,384,8,5.0,Frostbite,2219,https://images.gr-assets.com/books/1361098960m/2282133.jpg,frostbite,0.028841820639927896,0.14420910319963948
+239,325,8,5.0,A Prayer for Owen Meany,3868,https://images.gr-assets.com/books/1260470010m/4473.jpg,aprayerforowenmeany,0.016546018614270942,0.0827300930713547
+238,323,6,5.0,Nesnesitelná lehkost bytí,3120,https://images.gr-assets.com/books/1265401884m/9717.jpg,nesnesitelnlehkostbyt,0.011538461538461539,0.057692307692307696
+229,311,6,5.0,The Thorn Birds,3721,https://images.gr-assets.com/books/1391416796m/3412.jpg,thethornbirds,0.009674818597151302,0.04837409298575651
+206,274,8,5.0,The Godfather,2772,https://images.gr-assets.com/books/1394988109m/22034.jpg,thegodfather,0.023088023088023088,0.11544011544011544
+204,270,6,5.0,Rebecca,4220,https://images.gr-assets.com/books/1327871977m/12873.jpg,rebecca,0.008530805687203791,0.042654028436018954
+175,233,8,5.0,El amor en los tiempos del cólera,4459,https://images.gr-assets.com/books/1327124987m/9712.jpg,elamorenlostiemposdelclera,0.01435299394483068,0.0717649697241534
+111,176,3,5.0,It,4853,https://images.gr-assets.com/books/1309376909m/18342.jpg,it,0.001854522975479085,0.009272614877395426
+170,225,9,5.0,East of Eden  ,4576,https://images.gr-assets.com/books/1441547516m/4406.jpg,eastofeden,0.017701048951048952,0.08850524475524477
+152,205,8,5.0,Interview with the Vampire,5764,https://images.gr-assets.com/books/1380631642m/43763.jpg,interviewwiththevampire,0.011103400416377515,0.055517002081887576
+147,202,6,5.0,"Hush, Hush",2601,https://images.gr-assets.com/books/1358261334m/6339664.jpg,hushhush,0.01384083044982699,0.06920415224913495
+143,20,8,5.0,Mockingjay,15953,https://images.gr-assets.com/books/1358275419m/7260188.jpg,mockingjay,0.0040117846173133576,0.020058923086566788
+139,196,5,5.0,Fight Club,3917,https://images.gr-assets.com/books/1357128997m/5759.jpg,fightclub,0.006382435537401072,0.03191217768700536
+133,191,7,5.0,Watchmen,3825,https://images.gr-assets.com/books/1442239711m/472331.jpg,watchmen,0.01281045751633987,0.06405228758169934
+123,183,6,5.0,Clockwork Angel,3366,https://images.gr-assets.com/books/1454962884m/7171637.jpg,clockworkangel,0.0106951871657754,0.053475935828877004
+283,394,7,5.0,Shadow Kiss,2098,https://images.gr-assets.com/books/1361099049m/2802316.jpg,shadowkiss,0.023355576739752144,0.11677788369876071
+285,397,4,5.0,Das Parfum. Die Geschichte eines Mörders,2121,https://images.gr-assets.com/books/1409112276m/343.jpg,dasparfumdiegeschichteeinesmrders,0.007543611504007544,0.03771805752003772
+299,413,5,5.0,Les Trois Mousquetaires,3062,https://images.gr-assets.com/books/1320436982m/7190.jpg,lestroismousquetaires,0.008164598301763554,0.04082299150881777
+302,419,8,5.0,Blood Promise,2013,https://images.gr-assets.com/books/1442530605m/5996153.jpg,bloodpromise,0.031793343268753105,0.15896671634376552
+500,992,7,5.0,The Twilight Saga,932,https://images.gr-assets.com/books/1327930511m/3090465.jpg,thetwilightsaga,0.05257510729613734,0.2628755364806867
+492,964,8,5.0,The Hobbit and The Lord of the Rings,1400,https://images.gr-assets.com/books/1346072396m/30.jpg,thehobbitandthelordoftherings,0.045714285714285714,0.22857142857142856
+444,757,6,5.0,Lonesome Dove,1920,https://images.gr-assets.com/books/1378573063m/256008.jpg,lonesomedove,0.018750000000000003,0.09375000000000001
+435,72,6,5.0,The Shining,6861,https://images.gr-assets.com/books/1353277730m/11588.jpg,theshining,0.005247048535198951,0.026235242675994756
+418,67,8,5.0,A Thousand Splendid Suns,7662,https://images.gr-assets.com/books/1345958969m/128029.jpg,athousandsplendidsuns,0.00835291046724093,0.04176455233620465
+413,66,10,5.0,Gone with the Wind,7714,https://images.gr-assets.com/books/1328025229m/18405.jpg,gonewiththewind,0.012963443090484833,0.06481721545242417
+394,620,6,5.0,The Mists of Avalon,2380,https://images.gr-assets.com/books/1388857089m/402045.jpg,themistsofavalon,0.015126050420168069,0.07563025210084034
+384,6,7,5.0,The Fault in Our Stars,11264,https://images.gr-assets.com/books/1360206420m/11870085.jpg,thefaultinourstars,0.004350142045454545,0.021750710227272724
+367,561,8,5.0,The Phantom Tollbooth,2587,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,thephantomtollbooth,0.024739080015461924,0.12369540007730961
+365,559,5,5.0,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,2516,https://images.gr-assets.com/books/1497218117m/32261.jpg,tessofthedurbervillesapurewomanfaithfullypresented,0.009936406995230525,0.049682034976152624
+346,512,5,5.0,The Complete Tales of Edgar Allan Poe,2212,https://images.gr-assets.com/books/1327942676m/23919.jpg,thecompletetalesofedgarallanpoe,0.011301989150090416,0.05650994575045208
+344,51,8,5.0,City of Bones,6504,https://images.gr-assets.com/books/1432730315m/256683.jpg,cityofbones,0.00984009840098401,0.04920049200492005
+308,427,6,5.0,The Importance of Being Earnest,2831,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,theimportanceofbeingearnest,0.012716354645001766,0.06358177322500883
+306,424,6,5.0,Il nome della rosa,2910,https://images.gr-assets.com/books/1415375471m/119073.jpg,ilnomedellarosa,0.012371134020618558,0.061855670103092786
+304,422,6,5.0,Complete Harry Potter Boxed Set,1915,https://images.gr-assets.com/books/1392579059m/862041.jpg,completeharrypotterboxedset,0.018798955613577025,0.09399477806788513
+120,181,8,5.0,In Cold Blood,4467,https://images.gr-assets.com/books/1424931136m/168642.jpg,incoldblood,0.014327289008282965,0.07163644504141482
+250,337,7,5.0,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,3270,https://images.gr-assets.com/books/1404613595m/13.jpg,theultimatehitchhikersguidefivecompletenovelsandonestory,0.014984709480122324,0.07492354740061162
+83,153,6,5.0,City of Ashes,4415,https://images.gr-assets.com/books/1432730356m/1582996.jpg,cityofashes,0.008154020385050961,0.040770101925254806
+68,137,9,5.0,Outlander,5297,https://images.gr-assets.com/books/1402600310m/10964.jpg,outlander,0.015291674532754389,0.07645837266377195
+25,115,7,5.0,Middlesex,5615,https://images.gr-assets.com/books/1437029776m/2187.jpg,middlesex,0.008726625111308993,0.043633125556544965
+72,142,7,5.0,The Pillars of the Earth,5672,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,thepillarsoftheearth,0.008638928067700988,0.04319464033850494
+48,126,3,5.0,Dune,5864,https://images.gr-assets.com/books/1434908555m/234225.jpg,dune,0.0015347885402455662,0.007673942701227831
+104,168,8,5.0,The Stand,5973,https://images.gr-assets.com/books/1213131305m/149267.jpg,thestand,0.010714883643060438,0.05357441821530219
+9,104,7,5.0,The Road,6779,https://images.gr-assets.com/books/1439197219m/6288.jpg,theroad,0.007228204749963121,0.03614102374981561
+82,150,8,5.0,The Red Tent,5358,https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png,theredtent,0.011944755505785741,0.059723777528928705
+36,12,7,5.0,Divergent,11780,https://images.gr-assets.com/books/1328559506m/13335037.jpg,divergent,0.004159592529711375,0.020797962648556875
+64,134,5,5.0,City of Glass,4451,https://images.gr-assets.com/books/1369452339m/3777732.jpg,cityofglass,0.005616715344866322,0.028083576724331608
+2,100,12,4.916666666666667,The Poisonwood Bible,6343,https://images.gr-assets.com/books/1412242487m/7244.jpg,thepoisonwoodbible,0.022702191392085763,0.11161910767775501

@@ -1,0 +1,29 @@
+﻿What is your problem formulation?
+: Search for the query and filter the search result based on the user data. 
+
+
+What are the goals and non-goals of your model and system?
+: Goals: Find the best possible match to the given query and add personalized recommendation to that result.
+
+
+What features did you consider?
+: rating book_titles book_id user_id
+
+
+What model did you use and why?
+:
+For search,I used TFIDF to search data because it gives the most relevant search result and eliminates the impact of common words.
+Used collaborative filtering to recommend books the user should read.Because collaborative filtering can help recommenders to not overspecialize in a user’s profile and recommend items that are completely different from what they have seen before.
+
+
+What was your evaluation method for this?
+: Cosine Similarity
+
+
+ Why did you select this method?
+:It's  best suited for text data.
+
+
+What features would you like to add to the model in the future if you had more
+Time?
+: I would like to add author or publication of a book and the genres of the book i.e the book tag.
