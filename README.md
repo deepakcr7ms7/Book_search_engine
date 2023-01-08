@@ -7,6 +7,7 @@
 * [Problem Statement](#problem-statement)
 * [Data Pre-Processing](#data-preprocessing)
 * [Search Engine](#search-engine)
+* [Collabrative Filtering](#collabrative-filtering)
 * [Result](#result)
 * [References](#references)
 * [Future Work](#future-work)
