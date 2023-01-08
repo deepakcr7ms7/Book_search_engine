@@ -133,5 +133,5 @@ Information Retrieval in Practice
 
 ## Future Work
 
-Using neural networks, AI, and deep learning in the development of search engines as mentioned in Tommaso Teofili book about "Deep Learning for Search"  
+Using neural networks, AI, and deep learning in the development of search engines as mentioned in book "Deep Learning for Search" by Tommaso Teofili 
 
