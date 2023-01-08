@@ -95,15 +95,15 @@ I used collabrating filtering algorithm to make recommendations
 
 * Import prepossed data and cluster them:
 
-<br> <img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS3.jpg" height=400 style="width:100%;">
+<br> <img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS3.jpg" height=400 style="width:80%;">
 
 * Retrive the list of books liked by the user based on past ratings:
 
-<img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS4.jpg" height=400 style="width:100%;">
+<img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS4.jpg" height=400 style="width:80%;">
 
 * Find the user who liked the same books and filter them based on ratings count
 
-<img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS5.jpg" height=400 style="width:100%;">
+<img src="https://github.com/deepakcr7ms7/Book_search_engine/blob/master/images/BS5.jpg" height=400 style="width:80%;">
 
 * Create the recoomendation list of top 50 books the user might like
 
